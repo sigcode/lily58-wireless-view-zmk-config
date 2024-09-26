@@ -75,6 +75,11 @@
         };
         
     };
+    &u_unicode {
+        compatible = "zmk,unicode";
+        method = "UC_LNX";   // Or "UC_LNX" for Linux/macOS
+        unicode-key = <U>;
+    };
 
    
 };
