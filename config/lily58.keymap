@@ -12,11 +12,9 @@
 / {
     
     keymap {
-        
     
-        locale_de {
     compatible = "zmk,locale";
-};
+
         
 
         default_layer {
