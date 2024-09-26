@@ -7,10 +7,11 @@
 #include <behaviors.dtsi>
 #include <dt-bindings/zmk/bt.h>
 #include <dt-bindings/zmk/keys.h>
-&locale_de;
+
 
 / {
     keymap {
+        &locale_de;
         compatible = "zmk,keymap";
 
         default_layer {
