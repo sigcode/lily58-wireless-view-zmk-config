@@ -10,10 +10,11 @@
 
 
 / {
+    locale_de;
     keymap {
-        locale_de {
-            compatible = "zmk,locale";
-        };
+        
+        compatible = "zmk,locale";
+        
         
 
         default_layer {
