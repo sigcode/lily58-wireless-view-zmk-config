@@ -13,8 +13,10 @@
     locale_de;
     keymap {
         
-        compatible = "zmk,locale";
-        
+    
+        locale_de {
+    compatible = "zmk,locale";
+};
         
 
         default_layer {
@@ -78,6 +80,5 @@
         };
         
     };
-    locale_de;
     
 };
