@@ -75,5 +75,14 @@
         };
         
     };
+
+    macros {
+        macro_ae: macro_ae {
+            compatible = "zmk,macro";
+            label = "ä";
+            tap-ms = <10>;
+            bindings = <&kp U_A &kp U_UMLAUT>; // Example macro for 'ä'
+        };
+    };
     
 };
