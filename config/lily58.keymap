@@ -10,7 +10,7 @@
 
 
 / {
-    locale_de;
+    
     keymap {
         
     
