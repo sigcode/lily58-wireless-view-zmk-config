@@ -67,7 +67,7 @@
 &kp TAB         &altgr RA(Q) Q    &kp W   &altgr RA(E) E         &kp R         &kp T                             &kp Y   &kp U     &hm KP_MINUS I      &hm KP_PLUS O    &hm KP_MULTIPLY P     &kp LEFT_BRACKET
 &kp LEFT_SHIFT  &hm LGUI A   &hm LSHFT S   &hm LSHFT D   &lt 2 F   &kp G                             &kp H   &lt 1 J   &hm RCTRL K   &hm RALT L   &hm RGUI SEMI  &kp SQT
 &kp LCTRL       &altgr RA(NON_US_BSLH) Z   &kp X   &kp C         &kp V         &kp B   &kp RA(N8)    &kp RA(N9)  &kp N   &kp M     &kp COMMA  &kp DOT  &kp FSLH  &kp RSHFT
-                                &kp LEFT_GUI  &kp LEFT_ALT  &mo 1   &kp SPACE     &kp RET     &kp &mo 2   &kp BSPC  &kp RALT
+                                &kp LEFT_GUI  &kp LEFT_ALT  &mo 1   &kp SPACE     &kp RET    &mo 2   &kp BSPC  &kp RALT
             >;
 
             sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN>;
